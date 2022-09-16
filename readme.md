@@ -1,6 +1,4 @@
-# Who Am I ?
-
-Hi~
+나도 이제 github을 쓰겠다!
 
 ![cuteboy](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpX57KMQOmoB-Y49CJ2RsX9w78xsXS0aQceQ&usqp=CAU)
 
